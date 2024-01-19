@@ -1,7 +1,7 @@
 body {
   background-color: white;
-  font-family: Roboto;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 
 ul {
@@ -9,8 +9,9 @@ ul {
 }
 
 .logo {
+  color: #2e2f42;
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 1.16;
@@ -23,6 +24,7 @@ ul {
 }
 
 .header-list-menu a {
+  color: #2e2f42;
   font-size: 16px;
   text-decoration: none;
   font-weight: 500;
@@ -36,7 +38,6 @@ ul {
 }
 
 .contacts-item {
-  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -75,6 +76,7 @@ ul {
 }
 
 .strategy-titles {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -82,7 +84,6 @@ ul {
 }
 
 .strategy-text {
-  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -93,6 +94,7 @@ ul {
 }
 
 .team-title {
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   text-transform: capitalize;
@@ -101,6 +103,7 @@ ul {
 }
 
 .team-list-li h3 {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -108,13 +111,13 @@ ul {
 }
 
 .team-list-li p {
-  color: #434455;
   font-size: 1.5;
   line-height: 24px;
   letter-spacing: 0.02em;
 }
 
 .portfolio-title {
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   text-transform: capitalize;
@@ -123,6 +126,7 @@ ul {
 }
 
 .portfolio-list-li h3 {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -130,7 +134,6 @@ ul {
 }
 
 .portfolio-list-li p {
-  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
